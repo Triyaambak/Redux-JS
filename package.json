@@ -1,0 +1,12 @@
+{
+  "name": "Redux-Starter",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.7",
+    "immer": "^10.1.1",
+    "lodash": "^4.17.21"
+  }
+}
